@@ -29,6 +29,7 @@ to get started with the course.
   - [RustRover](https://www.jetbrains.com/rust/);
   - [Visual Studio Code](https://code.visualstudio.com) with
     the [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) extension.
+  - [Neovim](https://neovim.io/) with some Rust plugins.
 
 ## Solutions
 
