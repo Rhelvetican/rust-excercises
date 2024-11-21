@@ -1,4 +1,4 @@
 [package]
-name = "interior_mutability"
-version = "0.1.0"
-edition = "2021"
+    edition = "2021"
+    name    = "interior_mutability"
+    version = "0.1.0"

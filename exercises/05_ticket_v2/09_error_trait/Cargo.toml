@@ -1,8 +1,8 @@
 [package]
-name = "error_trait"
-version = "0.1.0"
-edition = "2021"
+    edition = "2021"
+    name    = "error_trait"
+    version = "0.1.0"
 
 [dev-dependencies]
-common = { path = "../../../helpers/common" }
-static_assertions = "1.1.0"
+    common            = { path = "../../../helpers/common" }
+    static_assertions = "1.1.0"

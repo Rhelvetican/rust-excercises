@@ -1,4 +1,4 @@
 [package]
-name = "outro_03"
-version = "0.1.0"
-edition = "2021"
+    edition = "2021"
+    name    = "outro_03"
+    version = "0.1.0"

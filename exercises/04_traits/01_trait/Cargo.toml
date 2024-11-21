@@ -1,4 +1,4 @@
 [package]
-name = "trait_"
-version = "0.1.0"
-edition = "2021"
+    edition = "2021"
+    name    = "trait_"
+    version = "0.1.0"
